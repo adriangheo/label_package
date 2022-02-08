@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInitf3e863fada281b9cafe4a68c53f0a57e
 {
     public static $prefixLengthsPsr4 = array (
-        'D' => 
+        'L' => 
         array (
-            'Dummdevka\\Labels\\' => 17,
+            'LabelGenerator\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Dummdevka\\Labels\\' => 
+        'LabelGenerator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
