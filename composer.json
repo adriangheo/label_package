@@ -1,0 +1,17 @@
+{
+    "name": "dummdevka/labels",
+    "description": "A package to generate labels",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Dummdevka\\Labels\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dummdevka",
+            "email": "87282400+Dummdevka@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
