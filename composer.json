@@ -1,7 +1,7 @@
 {
     "name": "dummdevka/labels",
     "description": "A package to generate labels",
-    "type": "composer-plugin",
+    "type": "label-generator",
     "autoload": {
         "psr-4": {
             "LabelGenerator\\": "src/"
@@ -12,6 +12,9 @@
             "name": "Dummdevka",
             "email": "87282400+Dummdevka@users.noreply.github.com"
         }
+    ],
+    "repositories": [
+        {"type": "composer", "url": "https://labels.repo.repman.io"}
     ],
     "require": {}
 }
